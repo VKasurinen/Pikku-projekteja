@@ -5,3 +5,5 @@ Tässä repossa minulla on pieniä projekteja, joita olen tehnyt kurssilla ja va
 Olen tehnyt myös ristinolla pelin, jossa on perus toiminnallisuus ja tämä on myöskin tehty android studiolla käyttäen javaa. Olen näiden android projektien ohessa harjoitellut Kotlinia ja minulla on isompi projekti tulossa käyttäen Kotlinia.
 
 ![Photo](calculator.png)
+
+![Photo](bmi_laskin.png)
